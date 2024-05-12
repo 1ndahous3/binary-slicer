@@ -1,0 +1,9 @@
+[submodule "yara"]
+	path = deps/yara/yara
+	url = https://github.com/VirusTotal/yara.git
+[submodule "udmp-parser"]
+	path = deps/udmp-parser
+	url = https://github.com/0vercl0k/udmp-parser.git
+[submodule "core2ELF64"]
+	path = deps/core2ELF64
+	url = https://github.com/enbarberis/core2ELF64.git
